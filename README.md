@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayfer</h1>
-<h3 align="center">I'm a Python Developer From Tunisia.</h3>
+<h3 align="center">I'm a Back-end Developer From Tunisia.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Nayfer Website](https://comingsoon.com/)**
 
 - 🌱 I’m currently learning **JavaScript For Advanced Programmers**
 
@@ -14,9 +14,8 @@
 
 - 👨‍💻 All of my projects are available for free
 
-- 📫 How to reach me **ninjahat777@gmail.com**
+- 📫 How to reach me **cha.afk@yahoo.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -47,20 +46,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
-
 <a href="#"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cha-afk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-**You don't need to :p **
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=cha-afk">
