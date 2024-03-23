@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Nayfer Website](https://comingsoon.com/)**
+- 🔭 I’m currently working on **[N-DEV](https://nayfer.dev/)**
 
 - 🌱 I’m currently learning **JavaScript For Advanced Programmers**
 
