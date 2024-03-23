@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available for free
 
-- 📫 How to reach me **cha.afk@yahoo.com**
+- 📫 How to reach me **contact@nayfer.dev**
 
 
 ## 🚀 Languages and Tools:
