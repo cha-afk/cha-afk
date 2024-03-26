@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayfer</h1>
-<h3 align="center">I'm a Back-end Developer From Tunisia.</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -41,10 +41,7 @@
 
 <br/>
 <br/>
-<a href="#"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cha-afk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=cha-afk">
 </a>
