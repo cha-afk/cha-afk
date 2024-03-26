@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[N-DEV](https://nayfer.dev/)**
 
-- 🌱 I’m currently learning **JavaScript For Advanced Programmers**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -19,19 +19,22 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="" width="48" />
+  <img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="" width="48" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />
+  <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-2048x2048-weuuvbaz.png" width="48" alt="" />
+</div>
 
-  
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
