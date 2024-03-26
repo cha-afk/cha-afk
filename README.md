@@ -1,4 +1,4 @@
-<center><img src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp"></center>
+<div align="center"><img src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp"></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayfer</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
