@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtpNGE2aGxiajBzZHI1a3R4eWJ5YWgxZnFkNnFvaWMxOWw1MnFpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<center><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JmMXh1emt5MDQ1b2p6YzVrN2FjZ3JlNGhyY2M4cnM5cGdqZHRmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"></center>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayfer</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
