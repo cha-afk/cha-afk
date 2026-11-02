@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:282a36,100:bd93f9&text=Nayfer&fontColor=f8f8f2&fontSize=64&fontAlignY=38&desc=Business%20is%20business.&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Nayfer. Business is business." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:282a36,100:bd93f9&text=Nayfer&fontColor=f8f8f2&fontSize=64&fontAlignY=38&desc=&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Nayfer." />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ychaabane"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge" alt="LinkedIn" /></a>
