@@ -1,46 +1,24 @@
-<h2 align="center">Hi 👋! </h2>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:282a36,100:bd93f9&text=Nayfer&fontColor=f8f8f2&fontSize=64&fontAlignY=38&desc=Business%20is%20business.&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Nayfer. Business is business." />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cha-afk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/ychaabane"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/nayferm/"><img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge" alt="Instagram" /></a>
 </div>
 
-###
+## Building now
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+**Road2Funded** is a trading journal for prop-firm and funded traders. It imports trades from CSV and tracks P&L, win rate, drawdown and consistency, on a Laravel API with a React Native app.
 
-###
+## Stack
 
-<div align="center">
-  <a href="https://www.instagram.com/nayferm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ychaabane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,python,cs,c,lua,mysql,html,css&perline=12" alt="JavaScript, TypeScript, React, PHP, Laravel, Python, C#, C, Lua, MySQL, HTML, CSS" />
 
-###
+## Projects
 
+| Project | Language | Stars |
+| --- | --- | --- |
+| [logout_vorp](https://github.com/cha-afk/logout_vorp) | Lua | ![stars](https://img.shields.io/github/stars/cha-afk/logout_vorp?style=flat-square&label=&color=bd93f9) |
+| [RedM-Hogtie](https://github.com/cha-afk/RedM-Hogtie) | Lua | ![stars](https://img.shields.io/github/stars/cha-afk/RedM-Hogtie?style=flat-square&label=&color=bd93f9) |
+| [2D-Maze-Generator-Solver](https://github.com/cha-afk/2D-Maze-Generator-Solver) | C | ![stars](https://img.shields.io/github/stars/cha-afk/2D-Maze-Generator-Solver?style=flat-square&label=&color=bd93f9) |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:bd93f9,100:282a36" width="100%" alt="" />
